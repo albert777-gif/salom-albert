@@ -1,0 +1,24 @@
+.df{
+    width: 1,283px;
+    height: 39px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 32px;
+
+}
+.sa{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 64px;
+} 
+
+.sds{
+    display: flex;
+    justify-content: space-around; 
+    width: 558px;
+    height: 452px;
+    background-color: rgb(255, 0, 0);
+   
+}
